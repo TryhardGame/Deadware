@@ -13,8 +13,8 @@ from win32gui import *
 global chanid #ignore this
 global bottoken #ignore this
 
-chanid = 267624335836053506 # change to your channel ID
-bottoken = "OTc1WkMzc0KsMJDskAA" # change to your bot token
+chanid = 928694578964475944 # change to your channel ID
+bottoken = "MTM5MTg3MTEzMTgxMTcwOTIzOA.GISUc8.2eLNce3rFBlYoIQuDq6bbDCuSXWY0Awnf53AqI" # change to your bot token
 
 init()
 
